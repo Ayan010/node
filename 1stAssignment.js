@@ -7,7 +7,7 @@ const server = http.createServer((req, resp) => {
   console.log(query);
 
   if (pathname === "/") {
-    resp.end("Hello Node JS !!!!");
+    resp.end("<h1>Hello Node JS !!!!</h1>");
   }
 });
 
