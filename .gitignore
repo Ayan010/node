@@ -1,3 +1,4 @@
 app/node_modules
 sqlConnect/node_modules
 mongodbconnect/node_modules
+webSocketConnect/node_modules
